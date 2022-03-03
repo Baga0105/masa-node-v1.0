@@ -107,6 +107,8 @@ enode://91a3c3d5e76b0acf05d9abddee959f1bcbc7c91537d2629288a9edd7a3df90acaa46ffba
 enode://d87c03855093a39dced2af54d39b827e4e841fd0ca98673b2e94681d9d52d2f1b6a6d42754da86fa8f53d8105896fda44f3012be0ceb6342e114b0f01456924c@34.225.220.240:21000
 
 enode://fcb5a1a8d65eb167cd3030ca9ae35aa8e290b9add3eb46481d0fbd1eb10065aeea40059f48314c88816aab2af9303e193becc511b1035c9fd8dbe97d21f913b9@52.1.125.71:21000
+
+admin.addPeer("enode://a31754b3e101a8702b87c47249dc7412ddaee5670ca25f744893b26b7269b552541d062fa14d0b9fcc30d6bf1d5b24793bb0aa6bb5b8c5328bc06ef424e0b8ce@208.85.20.225:21000")
 ```
 #### Community Bootnodes
 Submit a PR to add a bootnode to the community list [here](https://github.com/masa-finance/masa-node-v1.0/pulls). 
